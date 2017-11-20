@@ -1,6 +1,6 @@
 --- 
 - 
-  commection: local
+  connection: local
   hosts: switches
   tasks: 
     - 
